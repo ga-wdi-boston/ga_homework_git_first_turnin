@@ -6,7 +6,7 @@
 3. Add a 'remote' called 'upstream' using `git remote add upstream git@github.com:tibbon/ga_git_first_turnin.git`. This will allow you to pull in changes that I might make later
 4. Create a new file in your `ga_git_first_turnin` directory called 'cats.txt'
 5. Stage this file for a commit with `git add cats.txt`
-6. Create a new commit with `git commit -m "Created cats.txt`
+6. Create a new commit with `git commit -m "Created cats.txt"`
 7. Push your new commit to *your* Github repo with `git push origin master`
 8. Create a new file called dogs.txt that contains the names of three dogs.
 9. State this file for commit
