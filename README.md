@@ -17,7 +17,7 @@
 14. Stage this file for commit
 15. Create a new commit
 16. Push this commit to a new branch on github with `git push origin my_fish`
-17. Create a *pull request* on Github by revisiting [my repo](https://github.com/tibbon/ga_git_first_turnin) and click "Pull Request" for your `my_fish` branch.
+17. Create a *pull request* on Github by revisiting [my repo](https://github.com/tibbon/ga_homework_git_first_turnin) and click "Pull Request" for your `my_fish` branch.
 18. Change back to your master branch with `git checkout master`
 19. Merge changes from branch my_fish into master with `git merge my_fish`
 
