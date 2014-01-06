@@ -9,7 +9,7 @@
 6. Create a new commit with `git commit -m "Created cats.txt"`
 7. Push your new commit to *your* Github repo with `git push origin master`
 8. Create a new file called dogs.txt that contains the names of three dogs.
-9. State this file for commit
+9. Stage this file for commit
 10. Create a new commit with a good commit message.
 11. Push this commit to Github
 12. Create a new branch called my_fish with `git checkout -b my_fish`
