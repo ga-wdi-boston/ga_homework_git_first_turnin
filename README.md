@@ -23,3 +23,5 @@
 
 
 This workflow is roughly how you'll turn in quizzes, homework and assignments. 
+
+If you wish to pull in additional changes that I have made do `git pull upstream master` from your repo. 
