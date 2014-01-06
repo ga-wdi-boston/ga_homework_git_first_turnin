@@ -1,6 +1,7 @@
 # First Github Turnin
 
 1. Fork this repo on Github
+2. Change into your Code directory. Do not do the following from inside another Github repo. 
 2. Clone *your* repo from Github to your local machine using `git clone git@github.com:YOUR_USERNAME/ga_git_first_turnin.git`
 3. Add a 'remote' called 'upstream' using `git remote add git@github.com:tibbon/ga_git_first_turnin.git`. This will allow you to pull in changes that I might make later
 4. Create a new file in your `ga_git_first_turnin` directory called 'cats.txt'
